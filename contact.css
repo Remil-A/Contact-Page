@@ -366,12 +366,30 @@ textarea{
   #form{
     margin-left: 2rem;
   }
+  .btn{
+    background: rgba(24, 49, 83, 1);
+    color: #fff;
+    padding: 9px;
+    width: 100px;
+    border-radius: 8px;
+    margin-top: 20px;
+    margin: 10px;
+}
 }
 @media screen and (min-width: 820px)
 {
   .container{
     height: auto;
   }
+  .btn{
+    background: rgba(24, 49, 83, 1);
+    color: #fff;
+    padding: 9px;
+    width: 100px;
+    border-radius: 8px;
+    margin-top: 20px;
+    margin: 10px;
+}
 }
 
 
