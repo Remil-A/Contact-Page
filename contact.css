@@ -365,6 +365,11 @@ textarea{
   }
   #form{
     margin-left: 2rem;
+      padding-left: 2rem;
+  }
+    .loc-text,
+  .add, .num{
+    font-weight: bold;
   }
   .btn{
     background: rgba(24, 49, 83, 1);
